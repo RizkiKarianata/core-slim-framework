@@ -78,7 +78,7 @@ Always run a build and test the results before committing.
 
 ## 📝 License
 
-* Copyright © 2020 Rizki Karianata
+* Copyright © 2021 Rizki Karianata
 * **Core Slim Framework is an open source project licensed under the MIT license**
 
 ## ☕️ Suppport & Donation
