@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the Core Slim Framework! 👋 </h1>
+<h1 align="center">Welcome to Core Slim Framework! 👋 </h1>
 
 <p align="center">Core Slim Framework is a PHP micro framework template using the modified Slim Framework. Core Slim Framework helps you to speed up writing web applications (Code) and simple yet powerful APIs. Built using the Slim Framework. 💖 </p>
 
